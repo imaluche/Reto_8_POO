@@ -1,0 +1,239 @@
+{
+  "sopas": [
+    {
+      "nombre": "ajiaco",
+      "precio": 6000
+    },
+    {
+      "nombre": "mondongo",
+      "precio": 5000
+    },
+    {
+      "nombre": "sopa de mariscos",
+      "precio": 7000
+    },
+    {
+      "nombre": "mute",
+      "precio": 7000
+    },
+    {
+      "nombre": "sopa de maicena",
+      "precio": 5000
+    },
+    {
+      "nombre": "sopa de verduras",
+      "precio": 4500
+    }
+  ],
+  "ensaladas": [
+    {
+      "nombre": "ensalada cesar",
+      "precio": 2000,
+      "vinagreta": true
+    },
+    {
+      "nombre": "guacamole",
+      "precio": 1500,
+      "vinagreta": false
+    },
+    {
+      "nombre": "ensalada de la casa",
+      "precio": 1000,
+      "vinagreta": true
+    },
+    {
+      "nombre": "ensalada dulce",
+      "precio": 1500,
+      "vinagreta": false
+    },
+    {
+      "nombre": "ensalada de col",
+      "precio": 2000.0,
+      "vinagreta": true
+    }
+  ],
+  "bebidas": [
+    {
+      "nombre": "limonada",
+      "precio": 5000,
+      "jugo": true,
+      "azucar": false,
+      "hielo": false
+    },
+    {
+      "nombre": "cocacola",
+      "precio": 4000,
+      "jugo": false,
+      "azucar": false,
+      "hielo": false
+    },
+    {
+      "nombre": "agua",
+      "precio": 2000,
+      "jugo": false,
+      "azucar": false,
+      "hielo": false
+    },
+    {
+      "nombre": "limonada de coco",
+      "precio": 7000,
+      "jugo": false,
+      "azucar": false,
+      "hielo": false
+    },
+    {
+      "nombre": "limonada - cerezada",
+      "precio": 7000,
+      "jugo": false,
+      "azucar": false,
+      "hielo": false
+    },
+    {
+      "nombre": "limonada de hierbabuena",
+      "precio": 7000,
+      "jugo": false,
+      "azucar": false,
+      "hielo": false
+    },
+    {
+      "nombre": "quatro",
+      "precio": 4000,
+      "jugo": false,
+      "azucar": false,
+      "hielo": false
+    },
+    {
+      "nombre": "agua con gas",
+      "precio": 2800,
+      "jugo": false,
+      "azucar": false,
+      "hielo": false
+    },
+    {
+      "nombre": "jugo de lulo",
+      "precio": 6000,
+      "jugo": true,
+      "azucar": false,
+      "hielo": false
+    },
+    {
+      "nombre": "cafe",
+      "precio": 6000.0,
+      "jugo": false,
+      "azucar": false,
+      "hielo": false
+    }
+  ],
+  "platos_centrales": [
+    {
+      "nombre": "bandeja paisa",
+      "precio": 20000
+    },
+    {
+      "nombre": "arroz con pollo",
+      "precio": 18000
+    },
+    {
+      "nombre": "churrasco",
+      "precio": 25000
+    },
+    {
+      "nombre": "sobrebarriga",
+      "precio": 22000
+    },
+    {
+      "nombre": "sushi 20 piezas",
+      "precio": 50000
+    },
+    {
+      "nombre": "hamburguesa",
+      "precio": 17000
+    },
+    {
+      "nombre": "pizza personal",
+      "precio": 10000
+    },
+    {
+      "nombre": "trucha",
+      "precio": 23000
+    },
+    {
+      "nombre": "salmon",
+      "precio": 42000
+    },
+    {
+      "nombre": "tilapia",
+      "precio": 40000
+    },
+    {
+      "nombre": "mojarra",
+      "precio": 36000
+    },
+    {
+      "nombre": "pasta con albondigas",
+      "precio": 20000
+    },
+    {
+      "nombre": "lasa\u00c3\u00b1a",
+      "precio": 15000
+    },
+    {
+      "nombre": "picada pa' cuatro",
+      "precio": 85000
+    },
+    {
+      "nombre": "salchipapa",
+      "precio": 8000
+    },
+    {
+      "nombre": "tacos",
+      "precio": 26000
+    }
+  ],
+  "postres": [
+    {
+      "nombre": "milhoja",
+      "precio": 5000
+    },
+    {
+      "nombre": "copa de helado",
+      "precio": 4000
+    },
+    {
+      "nombre": "torta de cumplea\u00c3\u00b1os",
+      "precio": 30000
+    },
+    {
+      "nombre": "brazo de reina",
+      "precio": 7000
+    },
+    {
+      "nombre": "brownie con helado",
+      "precio": 8000
+    },
+    {
+      "nombre": "malteada",
+      "precio": 14000
+    },
+    {
+      "nombre": "cheesecake de limon",
+      "precio": 7000
+    },
+    {
+      "nombre": "dama blanca",
+      "precio": 10000
+    },
+    {
+      "nombre": "red velvet",
+      "precio": 8000
+    },
+    {
+      "nombre": "tarta de tres leches",
+      "precio": 10000
+    },
+    {
+      "nombre": "pan de bono",
+      "precio": 4000.0
+    }
+  ]
+}
